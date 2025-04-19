@@ -20,3 +20,4 @@ server.listen(3000, () => {
 })
 
 // data:18/04/2025
+/* aqui eu criei um servidor http puro simples sem Express */

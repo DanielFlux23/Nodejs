@@ -1,6 +1,5 @@
 const fs = require('fs');
 
-
 //lendo um arquivo
 fs.readFile('/estudo2/uteis/arquivo.text', 'utf-8', (erro, dados) => {
   if (erro) {
