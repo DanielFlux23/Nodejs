@@ -12,6 +12,13 @@ por: **daniel g. rocha**
 
 ---
 
+## Semana 1: 
+- Fundamentos afiados
+
+> Meta: entender como Node pensa.
+
+---
+
 ### Estudo 1
 - [x] Concluído
 - **titulo**: Ambiente & Fundamentos
@@ -39,3 +46,19 @@ por: **daniel g. rocha**
 - **O que foi feito**:
   - foi estudado o funcionamento dos diferentes métodos assíncrono 
   - descobrir que o setTimeout também tem seus poderes
+
+## Semana 2: 
+- APIs, Express e REST que presta
+
+> Meta: criar APIs sem parecer júnior.
+  
+---
+
+#### 4. estudo
+- [ ] Concluído
+- **titulo**: Express 101
+- **data**:
+- **assuntos**: Setup de server, Rotas, middlewares, Params, query, body, status codes decentes
+- **o que foi feito**
+  - foi estudado sobre partes mais profundas da criação de serves
+---

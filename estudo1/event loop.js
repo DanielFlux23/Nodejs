@@ -6,6 +6,8 @@ setTimeout(() => {
 
 console.log("3 - Depois");
 
+// aqui vemos que Timeout fica para trás
+
 /* 
 1 - Antes
 3 - Depois
