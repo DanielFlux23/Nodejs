@@ -54,11 +54,20 @@ por: **daniel g. rocha**
   
 ---
 
-#### 4. estudo
-- [ ] Concluído
+#### Estudo 4
+- [x] Concluído
 - **titulo**: Express 101
-- **data**:
+- **data**: 2025-05-05 a 2025-05-11
 - **assuntos**: Setup de server, Rotas, middlewares, Params, query, body, status codes decentes
 - **o que foi feito**
   - foi estudado sobre partes mais profundas da criação de serves
+---
+
+### Estudo 5
+- [x] Concluído
+- **Título**: RESTful na marra
+- **Data**: {2025-05-11 a AAAA-MM-DD}
+- **Assuntos**: CRUD completo com mock (sem banco ainda), Separar controller/service/model
+- **O que foi feito**:
+- **objetivo**: Estuda e criar um banco de dados CRUD simulador 
 ---
