@@ -9,6 +9,7 @@ const server = http.createServer((req, res) => {
     
     res.end('olá!, parece que o servidor está funcionando')
   } else {
+    // 404 (informa Rota ou recurso não encontrado) 
     res.writeHead(404, { 'Content-Type': 'text/plain' })
     
     res.end('Ops!, parece que ocorreu um erro')
