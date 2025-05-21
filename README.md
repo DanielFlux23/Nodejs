@@ -64,7 +64,7 @@ por: **daniel g. rocha**
 ---
 
 ### Estudo 5
-- [x] Concluído
+- [] Concluído
 - **Título**: RESTful na marra
 - **Data**: {2025-05-11 a AAAA-MM-DD}
 - **Assuntos**: CRUD completo com mock (sem banco ainda), Separar controller/service/model
